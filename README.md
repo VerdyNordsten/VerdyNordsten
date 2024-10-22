@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @VerdyNordsten
 - 👀 I have a passion for becoming a Full Stack Developer, and I'm continuously learning anything that brings me joy, haha.
-- 📫 Email : verdynordsten97@gmail.com
+- 📫 Email : vplcoder@gmail.com
 
 ## 🌐 Socials:
 
