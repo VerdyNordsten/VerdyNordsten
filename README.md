@@ -1,8 +1,9 @@
 ## About Me
 
-- 👋 Hi, I’m @VerdyNordsten
+- 👋 Hi, I’m Verdy Prido Lugara
 - 👀 I have a passion for becoming a Full Stack Developer, and I'm continuously learning anything that brings me joy, haha.
 - 📫 Email : vplcoder@gmail.com
+- 🌐 Website : https://verdsten.dev/
 
 ## 🌐 Socials:
 
